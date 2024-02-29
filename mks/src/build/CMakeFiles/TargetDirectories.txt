@@ -1,0 +1,3 @@
+/Users/michaelbrown/Documents/GitHub/aig_project/mks/src/build/CMakeFiles/result.dir
+/Users/michaelbrown/Documents/GitHub/aig_project/mks/src/build/CMakeFiles/edit_cache.dir
+/Users/michaelbrown/Documents/GitHub/aig_project/mks/src/build/CMakeFiles/rebuild_cache.dir
